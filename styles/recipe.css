@@ -1,0 +1,48 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.header h1 {
+    text-align: center;
+    font-size: 2rem;
+    
+}
+body{
+    background-color: antiquewhite;
+}
+.content {
+    width: 70vw;
+    border: 5px solid black;
+    margin: auto;
+    padding: 40px;
+    background-color: white;
+    border-radius: 30px;
+}
+.image >img{
+    width: 300px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+.image {
+    width: 300px;
+    margin: auto;
+}
+h2 {
+    font-size: 1.5em;
+}
+.ingredients {
+    padding: 30px;
+}
+a {
+    text-decoration: none;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-radius: 7px;
+}
+a:hover {
+    background-color: white;
+    color: black;
+    border-width: 3px;
+}
